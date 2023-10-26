@@ -1,2 +1,2 @@
-# major_research_project_sysbio
-Major research project Systems Biology Steven WIjnen
+# Major research project Systems Biology Steven WIjnen
+Notebooks to create figures of thesis 
